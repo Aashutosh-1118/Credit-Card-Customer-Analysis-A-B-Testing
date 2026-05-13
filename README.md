@@ -1,4 +1,4 @@
-# 🏦 AtliQo Bank — Credit Card Launch Analysis
+# 🏦 AtliQo Bank - Credit Card Launch Analysis
 
 > **End-to-end data analytics project** covering customer profiling, data cleaning, EDA, and a statistically validated A/B test to identify and target an untapped market segment for a new credit card product.
 
