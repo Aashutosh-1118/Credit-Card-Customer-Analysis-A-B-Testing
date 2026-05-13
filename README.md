@@ -15,6 +15,8 @@ AtliQo Bank wants to launch a new credit card and needs to identify the right cu
 ---
 
 ## 📁 Project Structure
+
+```
 AtliQo-Bank-Credit-Card-Analysis/
 │
 ├── 01_EDA_Data_Cleaning.ipynb       # Phase 1: Data wrangling, EDA & visualization
@@ -27,6 +29,7 @@ AtliQo-Bank-Credit-Card-Analysis/
 ├── .gitignore                       # Ignores .env and cache files
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
+```
 ---
 
 ## 📊 Notebooks Summary
